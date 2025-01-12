@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "pronblem1": "cpp",
+        "problem2": "cpp",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}
